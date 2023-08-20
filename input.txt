@@ -1,0 +1,10 @@
+programa
+
+declara numero a,b;
+
+a=3;
+
+escreva (a);
+escreva (b);
+
+fimprog;
